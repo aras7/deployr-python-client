@@ -1,0 +1,4 @@
+*.pyc
+real_data_test.py
+virtual_env/
+.idea/
