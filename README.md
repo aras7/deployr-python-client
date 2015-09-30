@@ -6,6 +6,14 @@ First version of a simple python client for deployr.
 Usage:
 ------
 
+* Install
+```bash
+
+$ pip install deployrclient
+```
+
+$ pip install deployrclient
+
 * Create instance and configure
 ```python
 from deployr_connection import DeployRConnection
